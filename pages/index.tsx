@@ -7,7 +7,7 @@ const Home: React.FC = () => {
   return (
     <Wrapper>
       <Head>
-        <title >Gaston Otero.</ title>
+        <title >Juan Cruz Medina :)</ title>
       </Head>
 
       <Main />

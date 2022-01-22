@@ -7,8 +7,8 @@ export const Main: React.FC = () => {
   return (
     <Wrapper>
       <Container>
-        <h1>Gaston Otero.</h1>
-        <p>Full Stack Dev. &#38; Engineering Student.</p>
+        <h1>Juan Cruz Medina.</h1>
+        <p>Back End Developer &#38; Engineering Student.</p>
       </Container>
     </Wrapper>
   );

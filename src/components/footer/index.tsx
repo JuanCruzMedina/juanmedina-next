@@ -8,7 +8,7 @@ export const Footer: React.FC = () => {
     <Container>
       <List>
         <ListItem>
-          <a href="https://github.com/gastonoterom">
+          <a href="https://github.com/JuanCruzMedina">
             <Image
               src="/icons/github-icon.svg"
               alt="github"
@@ -17,7 +17,7 @@ export const Footer: React.FC = () => {
             />
           </a>
         </ListItem>
-        <ListItem>
+        {/* <ListItem>
           <a href="https://twitter.com/_gastonotero">
             <Image
               src="/icons/twitter-icon.svg"
@@ -26,9 +26,9 @@ export const Footer: React.FC = () => {
               height="28"
             />
           </a>
-        </ListItem>
+        </ListItem> */}
         <ListItem>
-          <a href="https://www.linkedin.com/in/gaston-otero-166911184">
+          <a href="https://www.linkedin.com/in/medinajuancruz/">
             <Image
               src="/icons/linkedin-icon.svg"
               alt="linkedin"
