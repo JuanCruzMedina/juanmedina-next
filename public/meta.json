@@ -1,19 +1,19 @@
 {
-  "name": "gastonotero-next",
+  "name": "juanmedina-next",
   "sections": [
-    {
-      "name": "Blog",
-      "description": "Tech blog, mainly about software development, networking and linux. Beware, because I'm a free software enthusiast.",
-      "url": "/blog"
-    },
-    {
-      "name": "Projects",
-      "description": "All my personal projects, many of them have their source code included.",
-      "url": "/projects"
-    },
+    // {
+    //   "name": "Blog",
+    //   "description": "Tech blog, mainly about software development, networking and linux. Beware, because I'm a free software enthusiast.",
+    //   "url": "/blog"
+    // },
+    // {
+    //   "name": "Projects",
+    //   "description": "All my personal projects, many of them have their source code included.",
+    //   "url": "/projects"
+    // },
     {
       "name": "Resume",
-      "description": "I'm currently employed and not looking for new opportunities, but feel free to check it out if you want!",
+      "description": "I'm currently employed, but feel free to check it out if you want!",
       "url": "/resume"
     }
   ]

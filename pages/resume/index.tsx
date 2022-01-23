@@ -27,7 +27,7 @@ export default function Resume({ resumeMdx }: Props) {
         <Header />
         <BodyContainer>
           <PageTitle size={40}>Contact Me At</PageTitle>
-          <PageSubTitle size={25}>mail@gastonotero.com</PageSubTitle>
+          <PageSubTitle size={25}>juancruzfaq@gmail.com</PageSubTitle>
           <MDXRemote {...resumeMdx} />
         </BodyContainer>
         <Footer />

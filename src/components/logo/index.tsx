@@ -9,7 +9,7 @@ export const Logo: React.FC = () => {
     <Wrapper>
       <Link href="/">
         <Container>
-          <StyledTitle>Juan Cruz Medina</StyledTitle>
+          <StyledTitle>Juan Cruz Medina :)</StyledTitle>
         </Container>
       </Link>
     </Wrapper>

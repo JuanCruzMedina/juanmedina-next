@@ -24,4 +24,8 @@ export const Container = styled.div`
     font-weight: 300;
     color: ${({ theme }) => theme.colors.textColor};
   }
+  img {
+    max-width:100%;
+    height:auto;
+  }
 `;
