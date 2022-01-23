@@ -19,8 +19,8 @@ export const Row = styled.div`
 `;
 
 export const Col = styled.div`
-  flex: 0 0 33%;
-  max-width: 33%;
+  flex: 0 0 100%;
+  max-width: 100%;
   cursor: pointer;
   @media (max-width: 575px) {
     max-width: 100%;

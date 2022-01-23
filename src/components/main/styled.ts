@@ -28,4 +28,7 @@ export const Container = styled.div`
     max-width:25%;
     height:auto;
   }
+  .Logo {
+    background-image: url(./logo.png);
+  }
 `;
