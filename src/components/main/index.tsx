@@ -8,7 +8,7 @@ export const Main: React.FC = () => {
     <Wrapper>
       <Container>
         <h1>Juan Cruz Medina</h1>
-        <img src="./logo.png" />
+        <img src="/images/logo.png" />
         <p>Back End Developer &#38; Engineering Student</p>
       </Container>
     </Wrapper>
