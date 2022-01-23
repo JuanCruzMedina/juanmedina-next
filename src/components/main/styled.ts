@@ -25,7 +25,7 @@ export const Container = styled.div`
     color: ${({ theme }) => theme.colors.textColor};
   }
   img {
-    max-width:100%;
+    max-width:25%;
     height:auto;
   }
 `;
